@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(to right, #e0e70a, #df08c2);
+}
+h1{
+    color:#000;
+    text-align: center;
+    font-size: 2.5em;
+}
+p{
+    color: #0f0f0f;
+    text-align: center;
+    font-size: 1.2em;
+}
+button{
+    background-color: #0dd53c;
+    color: #000;
+    border-style: ridge;
+    height: 50px;
+    width: 100px;
+    font-size: 1em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    cursor: pointer;
+    margin-left: 150px;
+    border-radius: 10px;
+    
+
+}
+#calculator{
+    border-style: solid;
+    background-color: aliceblue;
+    height: 300px;
+    width: 400px;
+    border-radius: 25px;
+    position: absolute;
+    top: 200px;
+    left: 550px;
+    
+}
